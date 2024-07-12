@@ -1,0 +1,12 @@
+.title-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: hsl(0, 71%, 43%);
+  }
+  
+  .regular-text {
+    font-size: 18px;
+    color: hwb(0 15% 10%);
+    margin-bottom: 10px;
+  }
+  
